@@ -7,3 +7,11 @@ C:\Users\BURAK\source\repos\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstan
 C:\Users\BURAK\source\repos\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.AssemblyInfo.cs
 C:\Users\BURAK\source\repos\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.dll
 C:\Users\BURAK\source\repos\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.pdb
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\bin\Debug\netstandard2.0\NetProxy.Api.Contract.deps.json
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\bin\Debug\netstandard2.0\NetProxy.Api.Contract.dll
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\bin\Debug\netstandard2.0\NetProxy.Api.Contract.pdb
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.AssemblyInfoInputs.cache
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.AssemblyInfo.cs
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.dll
+C:\Users\BURAK\Documents\GitHub\NetProxy\src\NetProxy.Api.Contract\obj\Debug\netstandard2.0\NetProxy.Api.Contract.pdb

@@ -4,14 +4,22 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using NetProxy.Api.Contract.Services;
 using NetProxy.Hosting.Web.Models;
 
 namespace NetProxy.Hosting.Web.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        readonly IProductService _productService;
+        public HomeController(IProductService productService)
         {
+            _productService = productService;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            var result = await _productService.GetAllProduct();
             return View();
         }
 
